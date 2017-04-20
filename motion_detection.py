@@ -12,7 +12,7 @@ inpt = cv2.VideoCapture(args["video"])
  
 # initialize a temporary frame 
 temp = None
-
+global_cnt = 0
 while True:
 	# from input get the current frame 
 	(frame1, frame) = inpt.read()
@@ -51,11 +51,13 @@ while True:
 			continue
  
 		# compute the bounding box for the contour
-		(x, y, w, h) = cv2.boundingRect(c)
-		cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 255), 2)
+		#(x, y, w, h) = cv2.boundingRect(c)
+		#cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 255), 2)
 		count=count+1
-		text = "detected"
-		print(count)
+		#text = "detected"
+	
+	print 'Frame %d: %d' % (global_cnt, count)
+	global_cnt+=1	
 
 	# displaying the text and the number of objects detected on the frame
 	#cv2.putText(frame, str(count), (10,50 ), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 0), 2)
@@ -63,11 +65,12 @@ while True:
  
 	# Displaying the resultant video
 	#cv2.imshow("Input Video", frame)
-	key = cv2.waitKey(1) & 0xFF
+	#key = cv2.waitKey(1) & 0xFF
  
 	# press space to exit 
-	if key == ord(" "):
-		break
+	#if key == ord(" "):
+	#	break
  
 inpt.release()
 cv2.destroyAllWindows()
+
