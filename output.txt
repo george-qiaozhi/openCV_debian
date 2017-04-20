@@ -1,3 +1,111 @@
+<<<<<<< HEAD
+Frame 0: 0
+Frame 1: 0
+Frame 2: 0
+Frame 3: 0
+Frame 4: 0
+Frame 5: 0
+Frame 6: 0
+Frame 7: 0
+Frame 8: 0
+Frame 9: 1
+Frame 10: 1
+Frame 11: 1
+Frame 12: 1
+Frame 13: 1
+Frame 14: 1
+Frame 15: 1
+Frame 16: 1
+Frame 17: 1
+Frame 18: 1
+Frame 19: 1
+Frame 20: 1
+Frame 21: 1
+Frame 22: 1
+Frame 23: 1
+Frame 24: 1
+Frame 25: 1
+Frame 26: 1
+Frame 27: 1
+Frame 28: 1
+Frame 29: 1
+Frame 30: 1
+Frame 31: 1
+Frame 32: 1
+Frame 33: 1
+Frame 34: 1
+Frame 35: 1
+Frame 36: 1
+Frame 37: 1
+Frame 38: 1
+Frame 39: 1
+Frame 40: 1
+Frame 41: 1
+Frame 42: 1
+Frame 43: 1
+Frame 44: 1
+Frame 45: 1
+Frame 46: 1
+Frame 47: 1
+Frame 48: 1
+Frame 49: 1
+Frame 50: 1
+Frame 51: 1
+Frame 52: 0
+Frame 53: 0
+Frame 54: 0
+Frame 55: 0
+Frame 56: 0
+Frame 57: 0
+Frame 58: 0
+Frame 59: 0
+Frame 60: 0
+Frame 61: 0
+Frame 62: 0
+Frame 63: 0
+Frame 64: 0
+Frame 65: 0
+Frame 66: 0
+Frame 67: 0
+Frame 68: 0
+Frame 69: 1
+Frame 70: 1
+Frame 71: 1
+Frame 72: 1
+Frame 73: 1
+Frame 74: 1
+Frame 75: 1
+Frame 76: 1
+Frame 77: 1
+Frame 78: 1
+Frame 79: 1
+Frame 80: 1
+Frame 81: 1
+Frame 82: 1
+Frame 83: 1
+Frame 84: 1
+Frame 85: 1
+Frame 86: 1
+Frame 87: 1
+Frame 88: 1
+Frame 89: 1
+Frame 90: 1
+Frame 91: 1
+Frame 92: 1
+Frame 93: 1
+Frame 94: 1
+Frame 95: 1
+Frame 96: 1
+Frame 97: 1
+Frame 98: 1
+Frame 99: 1
+Frame 100: 1
+Frame 101: 2
+Frame 102: 1
+Frame 103: 1
+Frame 104: 1
+Frame 105: 1
+=======
 1
 1
 1
@@ -2441,3 +2549,4 @@ real	14m11.861s
 user	13m43.780s
 sys	0m8.440s
 
+>>>>>>> 1dc305c031a079889eb0f1ddd17f8e3b80ef87ea
